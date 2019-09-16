@@ -1,6 +1,5 @@
 num = 0
 
-
 for firstNumber in range(100, 999, 1):
 	for secondNumber in range(100, 999, 1)
     	result = firstNumber*secondNumber
